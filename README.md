@@ -21,6 +21,9 @@ NLTK Library
 
 Anaconda Navigator
 
+I have implemented Extractive Summarization using NLP
+For this project, we will see a simple NLP-based technique for text summarization. We will not use any machine learning library for this project. Rather we will simply use Python's NLTK library for summarizing documents.
+
 # Methodology to be followed
 The 6 steps implementation
 
