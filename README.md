@@ -8,15 +8,17 @@ Automatic summarization algorithms are less biased than human summarizers.
 Personalized summaries are useful in question-answering systems as they provide personalized information.
 Using automatic or semi-automatic summarization systems enables commercial abstract services to increase the number of texts they are able to process.
 # Text Summarization Approaches
-Extractive Summarization: 
+# Extractive Summarization: 
 These methods rely on extracting several parts, such as phrases and sentences, from a piece of text and stack them together to create a summary.  
 
-Abstractive Summarization:
+# Abstractive Summarization:
 These methods use advanced NLP techniques to generate an entirely new summary. Some parts of this summary may not even appear in the original text. 
 
 # Tools and Techniques used
 Python3
+
 NLTK Library
+
 Anaconda Navigator
 
 # Methodology to be followed
